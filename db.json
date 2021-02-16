@@ -1,0 +1,265 @@
+{
+    
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anthony Ha",
+            "title": "Original Content podcast: Netflix’s ‘Lupin’ is a twisty delight",
+            "description": "The new Netflix series “Lupin” is a loose adaptation of the Arséne Lupin stories by Maurice Leblanc, but it’s set in the present day, with a hero who’s inspired by the exploits of Leblanc’s fictional “gentleman thief.” Through flashbacks, we meet Assane Diop …",
+            "url": "http://techcrunch.com/2021/02/14/original-content-podcast-netflixs-lupin-is-a-twisty-delight/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/02/AL_101_Unit_02663.jpg?w=593",
+            "publishedAt": "2021-02-14T14:00:41Z",
+            "content": "The new Netflix series “Lupin” is a loose adaptation of the Arséne Lupin stories by Maurice Leblanc, but it’s set in the present day, with a hero who’s inspired by the exploits of Leblanc’s fictional… [+1659 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Jae Thomas",
+            "title": "21 cool gadgets on sale for Presidents Day",
+            "description": "You can never have too many gadgets — especially in an era where boredom is skyrocketing (thanks, COVID). Fortunately, we've got loads of Presidents Day deals for you on every kind of gadget or gizmo you can imagine.\nFrom portable projectors and Bluetooth spe…",
+            "url": "https://mashable.com/shopping/presidents-day-tech-sale/",
+            "urlToImage": "https://mondrian.mashable.com/2021%252F02%252F14%252F96%252Fdfe8c47ae64f423393d6cf8c7a0eb29b.f758a.jpg%252F1200x630.jpg?signature=sBraQrYbrVHALwuWQUCODwTsZRI=",
+            "publishedAt": "2021-02-14T10:00:00Z",
+            "content": "You can never have too many gadgets especially in an era where boredom is skyrocketing (thanks, COVID). Fortunately, we've got loads of Presidents Day deals for you on every kind of gadget or gizmo y… [+4508 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Samantha Murphy Kelly, CNN Business",
+            "title": "The long, bumpy road to the Apple Car",
+            "description": "For such a secretive company, Apple's car efforts have been in plain sight for years.",
+            "url": "https://www.cnn.com/2021/02/14/tech/apple-car-history/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/191002154138-tim-cook-apple-0712-file-super-tease.jpg",
+            "publishedAt": "2021-02-14T17:20:49Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Volkswagen CEO Diess 'not afraid' of an Apple electric car - Reuters",
+            "description": "Germany's Volkswagen is not concerned by any Apple plans for a passenger vehicle that could include the iPhone maker's battery technology, its chief executive Herbert Diess said.",
+            "url": "https://www.reuters.com/article/us-volkswagen-apple-idUSKBN2AE0GN",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20210214&t=2&i=1551499278&r=LYNXMPEH1D0EC&w=800",
+            "publishedAt": "2021-02-14T14:07:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Volkswagen Group Chief Executive Officer Herbert Diess gestures as he speaks during a news conference to announce the appointment of Wayne Griffiths as the new president… [+1078 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "Ara Wagoner",
+            "title": "It's not the fights Google loses, it's the fights they don't suit up for",
+            "description": "Google wins 0% of the fights they give up on.\n\n\n\nWhen we shell out hundreds for the best phones, tablets and laptops, to say nothing of all the services we spend our time in and our money on — we expect the manufacturers and tech giants responsible for these …",
+            "url": "https://www.androidcentral.com/its-not-fights-we-lose-its-fights-google-wont-suit-infuriate-me",
+            "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/08/acer-chromebook-spin-713-solitaire-japan.jpg",
+            "publishedAt": "2021-02-14T17:00:02Z",
+            "content": "Source: Ara Wagoner / Android Central\r\nWhen we shell out hundreds for the best phones, tablets and laptops, to say nothing of all the services we spend our time in and our money on we expect the manu… [+5905 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Frank McShan",
+            "title": "Apple's Heart Month Activity Challenge Requires 60 Minutes of Exercise on Valentine's Day",
+            "description": "Today only, Apple Watch owners can complete a new Apple Watch activity challenge in celebration of Heart Month, which is aimed at promoting cardiovascular health.\n\n\n\n\n\nThe challenge, which is listed in the Fitness app on the iPhone, tasks users with earning 6…",
+            "url": "https://www.macrumors.com/2021/02/14/heart-month-activity-challenge/",
+            "urlToImage": "https://images.macrumors.com/t/DQHiOp8lZB2yKmvRrDnkHr4zqwM=/1600x/https://images.macrumors.com/article-new/2021/02/Apple-Watch-Heart-Month-Challenge.jpg",
+            "publishedAt": "2021-02-14T06:15:58Z",
+            "content": "Today only, Apple Watch owners can complete a new Apple Watch activity challenge in celebration of Heart Month, which is aimed at promoting cardiovascular health.\r\nThe challenge, which is listed in t… [+721 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Sami Fathi",
+            "title": "Volkswagen CEO: We're 'Not Afraid' of a Potential 'Apple Car'",
+            "description": "Apple is widely rumored to be working on a self-driving car, internally codenamed \"Project Titan.\" Apple reportedly began work on the project in 2014, and years later, the rumor mill is in full swing speculating when Apple will debut its self-driving technolo…",
+            "url": "https://www.macrumors.com/2021/02/14/volkswagen-not-afraid-of-apple-car/",
+            "urlToImage": "https://images.macrumors.com/t/j2JzRpOWo81Sw_lSs-Tq6SgBSRQ=/1600x/https://images.macrumors.com/article-new/2021/02/herbert-diess-vw.jpg",
+            "publishedAt": "2021-02-14T16:49:52Z",
+            "content": "Apple is widely rumored to be working on a self-driving car, internally codenamed \"Project Titan.\" Apple reportedly began work on the project in 2014, and years later, the rumor mill is in full swing… [+2675 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Billboard"
+            },
+            "author": null,
+            "title": "Morgan Wallen's 'Dangerous' No. 1 for Fifth Week on Billboard 200 While 'If I Know Me' Hits Top 10 for First T - Billboard",
+            "description": "Morgan Wallen’s 'Dangerous: The Double Album' continues to rule the Billboard 200 chart for a fifth straight week, while his 'If I Know Me,' reaches the top 10.",
+            "url": "https://www.billboard.com/articles/business/chart-beat/9526109/morgan-wallen-dangerous-tops-billboard-200-for-fifth-week",
+            "urlToImage": "https://static.billboard.com/files/2021/02/02-feature-morgan-wallen-01-billboard-eric-ryan-anderson-1548-1612206252-compressed.jpg",
+            "publishedAt": "2021-02-14T20:00:35Z",
+            "content": "Of Dangerous 150,000 equivalent album units earned in the tracking week ending Feb. 11, SEA units comprise 107,000 (down 9%, equaling 146.38 million on-demand streams of the albums songs), album sale… [+4731 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tom's Guide"
+            },
+            "author": "Mark Spoonauer",
+            "title": "Samsung Galaxy S21 Ultra vs. Galaxy Note 20 Ultra: Which phone is best for you? - Tom's Guide",
+            "description": "<ol><li>Samsung Galaxy S21 Ultra vs. Galaxy Note 20 Ultra: Which phone is best for you?  Tom's Guide\r\n</li><li>Did you get the Samsung Galaxy S21, S21+ or S21 Ultra?  MobileSyrup\r\n</li><li>Samsung Galaxy A72 4G renders and full specs leak, 8MP telephoto unit …",
+            "url": "https://www.tomsguide.com/news/samsung-galaxy-s21-ultra-vs-galaxy-note-20-ultra-which-phone-is-best-for-you",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/BJgbCKz9sXwE9Z9Got7rBb-1200-80.jpg",
+            "publishedAt": "2021-02-14T05:01:00Z",
+            "content": "A Galaxy S21 Ultra vs Galaxy Note 20 Ultra face-off will help you decide between two premium flagship phones that are quite stellar and somewhat similar. In fact, as you'll see in our Samsung Galaxy … [+10718 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KUSI"
+            },
+            "author": null,
+            "title": "[Live] Watch UFC 258: Usman vs. Burns Stream Online Reddit free Official Channels HD - - KUSI",
+            "description": "<ol><li>[Live] Watch UFC 258: Usman vs. Burns Stream Online Reddit free Official Channels HD -  KUSI\r\n</li><li>UFC 258 Live Stream | Usman Vs. Burns | Radio-Style PPV Main Card Commentary  Combat Culture\r\n</li><li>UFC 258 picks: Best bets for Usman-Burns, Bar…",
+            "url": "https://www.kusi.com/live-watch-ufc-258-usman-vs-burns-stream-online-reddit-free-official-channels-hd/",
+            "urlToImage": "https://thesportsdaily.com/wp-content/uploads/sites/95/2021/01/UFC-258-Usman-vs-Burns.jpg",
+            "publishedAt": "2021-02-14T01:45:44Z",
+            "content": "Watch UFC 258 Online Reddit Live Stream Youtube &amp; Twitter: Kamaru Usman and Gilbert Burns have already been booked to fight twice, but both times the bout fell through. The long-awaited showdown … [+56466 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Matthew Allen",
+            "title": "Florida woman seeks charges dropped, claims self-defense in SWAT officer shooting",
+            "description": "Last September, Diamonds Ford was arrested for shooting a Jacksonville Sheriff SWAT team officer after law enforcement broke a window while serving a search ...",
+            "url": "https://news.yahoo.com/florida-woman-seeks-charges-dropped-170538972.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/1eGNluXNJk7rxCTcpXUExg--~B/aD01NjY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thegrio_yahoo_articles_946/bc50adc43959d12b16bbe683175e0fbb",
+            "publishedAt": "2021-02-14T17:05:38Z",
+            "content": "Diamonds Ford says she was acting in self-defense when she was woken from her sleep and shot at law enforcement serving a search warrant\r\nLast September, Diamonds Ford was arrested for shooting a Jac… [+2497 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Boing Boing"
+            },
+            "author": "Boing Boing's Shop",
+            "title": "These 15 Lightning cables are a big step up from that generic Apple cord",
+            "description": "Have you ever shattered a piece of licorice? No, really…candy can shatter. If a Red Vine has become old and stale, it will literally explode into a thousand tiny red shards if you smack it against a hard surface.\n\n\n\nAnd that's practically all it takes to make…",
+            "url": "https://boingboing.net/2021/02/14/these-15-lightning-cables-are-a-big-step-up-from-that-generic-apple-cord.html",
+            "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2021/02/sale_167413_article_image.jpg?fit=1200%2C800&ssl=1",
+            "publishedAt": "2021-02-14T13:30:00Z",
+            "content": "Have you ever shattered a piece of licorice? No, really…candy can shatter. If a Red Vine has become old and stale, it will literally explode into a thousand tiny red shards if you smack it against a … [+5432 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gamasutra"
+            },
+            "author": null,
+            "title": "The Pac-Man Dossier",
+            "description": "Comments",
+            "url": "https://www.gamasutra.com/view/feature/3938/the_pacman_dossier.php?print=1",
+            "urlToImage": null,
+            "publishedAt": "2021-02-14T17:43:19Z",
+            "content": "The Pac-Man Dossier\r\nBy Jamey Pittman\r\n[What design and AI lessons can we learn from Namco's seminal Pac-Man? From history through behavior, Gamasutra presents a comprehensive Jamey Pittman-authored … [+80651 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wikipedia.org"
+            },
+            "author": "Contributors to Wikimedia projects",
+            "title": "List of Leaf Vegetables",
+            "description": "Comments",
+            "url": "https://en.wikipedia.org/wiki/List_of_leaf_vegetables",
+            "urlToImage": null,
+            "publishedAt": "2021-02-14T16:22:19Z",
+            "content": "This is a list of vegetables which are grown or harvested primarily for the consumption of their leafy parts, either raw or cooked. Many plants with leaves that are consumed in small quantities as a … [+93401 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Palladiummag.com"
+            },
+            "author": "Fin dePencier",
+            "title": "Armenia Is an Orphaned Client State",
+            "description": "A journey through Armenia reveals a country on Russian life support. With Azerbaijan and Turkey in ascendency, the country's lack of allies is its most existential threat.",
+            "url": "https://palladiummag.com/2021/02/12/armenia-is-an-orphaned-client-state/",
+            "urlToImage": "https://palladiummag.com/wp-content/uploads/2021/02/woman-in-destroyed-house-martuni-1200x630-cropped.jpg",
+            "publishedAt": "2021-02-14T09:11:08Z",
+            "content": "The modern Armenian state has survived many conflicts with hostile neighbors. While tiny, it is the inheritor of a national history that once stretched from the Mediterranean to the Caspian Sea. But … [+50002 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gigazine.net"
+            },
+            "author": "@GIGAZINE",
+            "title": "ソフトウェアの「パッケージ」を利用してAppleやPayPalなどの大企業をハッキングする方法とは？",
+            "description": "高度にデジタル化された社会においてハッキングは大きな脅威となっており、2020年にはアメリカ政府機関への大規模なハッキング被害が判明したほか、水道システムがハッキングされて基準値の100倍もの有害物質が水道水に混入されかける事件も発生しました。そんな中、サイバーセキュリティ研究者のAlex Birsan氏が、ソフトウェアの「パッケージ」を利用して名だたる大企業にハッキングを仕掛ける方法について解説しています。続きを読む...",
+            "url": "https://gigazine.net/news/20210215-dependency-confusion-package-exploited/",
+            "urlToImage": "https://i.gzn.jp/img/2021/02/15/dependency-confusion-package-exploited/00_m.jpg",
+            "publishedAt": "2021-02-14T22:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Chance Miller",
+            "title": "This week’s top stories: New iOS 14.5 features, iPhone 13 roundup, Apple Silicon vs Intel, more",
+            "description": "In this week’s top stories: Apple Car talks with Hyundai and Kia break down, Intel gets paranoid about Apple Silicon, new iOS 14.5 features, and more. Read on for all of this week’s top Apple Stories. Apple Silicon vs Intel The first M1 Macs have been out in …",
+            "url": "https://9to5mac.com/2021/02/14/this-weeks-top-stories-new-ios-14-5-features-iphone-13-roundup-apple-silicon-vs-intel-more/",
+            "urlToImage": null,
+            "publishedAt": "2021-02-14T16:53:43Z",
+            "content": "This week Zac and Benjamin discuss Apples updated offer on the Developer Transition Kit, the stalled state of Apple Car talks, new features coming in iOS 14.5, Dan Riccios not so secret project at Ap… [+80904 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Chance Miller",
+            "title": "iPhone 13 rumored to feature ‘refined matte back,’ always-on display, more",
+            "description": "A new video today from EverythingApplePro on YouTube offers a series of rumors on what to expect from this year’s iPhone 13. The video cites exclusive details from prominent leaker Max Weinbach, claiming that the iPhone 13 will feature an always-on display, s…",
+            "url": "https://9to5mac.com/2021/02/14/iphone-13-always-on-display-matte-back/",
+            "urlToImage": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/iphone-13-always-on-display-EAP.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2021-02-14T23:13:55Z",
+            "content": "A new video today from EverythingApplePro on YouTube offers a series of rumors on what to expect from this years iPhone 13. The video cites exclusive details from prominent leaker Max Weinbach, claim… [+2846 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Sponsored Post",
+            "title": "Sophos Home adds layers of commercial-grade security on Mac, iOS, PC, Android [30% off deal]",
+            "description": "Macs may not be susceptible to the same malware as Windows PCs, but their popularity in the workforce means Mac computers are being targeted with their own malware more than ever. Sophos Home offers commercial-grade-level security for Mac, iPhone, iPad, PC, a…",
+            "url": "https://9to5mac.com/2021/02/14/sophos-home-mac-ios-android/",
+            "urlToImage": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/01/Sophos-Home-on-Mac.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2021-02-14T22:16:58Z",
+            "content": "Macs may not be susceptible to the same malware as Windows PCs, but their popularity in the workforce means Mac computers are being targeted with their own malware more than ever. Sophos Home offers … [+3202 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Justin Kahn",
+            "title": "Logic Pros Live Loops Launchpad Diary: Are these repurposed controllers really worth it?",
+            "description": "Welcome to the Logic Pros Live Loops Launchpad diary. Apple’s grid-based music production environment works wonders with its pricey tablets and handsets, but it’s the colorful Novation pad controllers that have caught our interest. Initially designed for some…",
+            "url": "https://9to5mac.com/2021/02/14/logic-pro-live-loops-launchpad/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/Live-Loops-Launchpad-Diar-01.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2021-02-14T20:51:06Z",
+            "content": "Welcome to the Logic Pros Live Loops Launchpad diary. Apples grid-based music production environment works wonders with its pricey tablets and handsets, but its the colorful Novation pad controllers … [+6767 chars]"
+        }
+    ]
+}
